@@ -1,4 +1,4 @@
-# Hi I'm Intouch Khurwong, Welcome to my Github Profile 👋
+# Hi I'm Intouch Khurwong<br> Welcome to my Github Profile 👋
 
 :man_student: I’m currently studying Software engineering @Chiang Mai University <br>
 🌱 I’m currently learning Front-End, Back-End, German Language and more! <br>
