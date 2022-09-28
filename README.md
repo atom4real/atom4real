@@ -8,7 +8,7 @@
 :point_right: [LinkedIn](https://www.linkedin.com/in/atom4real/)<br>
 :point_right: [Instragram](https://www.instagram.com/_atom._013/)<br>
 :point_right: [Facebook](https://www.facebook.com/AtomIsHere/)<br>
-:envelope: atomfaster@gmial.com<br>
+:envelope: atomfaster@gmail.com<br>
 
 ![Intouch_Khurwong](https://github.com/atom4real/atom4real/blob/main/IMG_8228.jpg)
 <!--
