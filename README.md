@@ -1,7 +1,13 @@
-### Hi I'm Intouch Khurwong, Welcome to my Github Profile 👋
+# Hi I'm Intouch Khurwong, Welcome to my Github Profile 👋
 
 :man_student: I’m currently studying Software engineering @Chiang Mai University 
+🌱 I’m currently learning Front-End, Back-End, German Language and more! 
 
+
+## 📫 How to reach me
+:point_right: [LinkedIn](https://www.linkedin.com/in/atom4real/)<br>
+:point_right: [Instragram](https://www.instagram.com/_atom._013/)<br>
+:point_right: [Facebook](https://www.facebook.com/AtomIsHere/)<br>
 <!--
 **atom4real/atom4real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
